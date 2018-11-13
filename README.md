@@ -1,2 +1,9 @@
 # hello-world
-Just another repository
+Hi Humans !
+
+Welcome to Dataentry project.
+
+Data Entry
+Date Processing
+MS Word
+MS Excel
